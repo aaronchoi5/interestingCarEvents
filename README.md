@@ -1,3 +1,3 @@
-# interestingCarEvents
+# Interesting Car Events
 
 This notebook was created to predict "interesting" events based on data collected by an app used during car trips. I hope you'll find it as interesting as I did. I was tasked to see if two additional features could help to predict the interesting events. The features were number of stops and turns. I had to define what a stop and turn was. I also had to use trigonometry to count turns as all I had was heading data and no defined turns. I hope this will illustrate the things I am capable of in regards to exploring datasets and working with them to tell an interesting story.
